@@ -1,0 +1,66 @@
+#canvas {
+    border: solid black 2px;
+    height: 490px;
+    width: 493px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    margin: none;
+    padding: none;
+}
+
+.pixel {
+    height: 15px;
+    width: 15px;
+    border: solid black 1px;
+}
+
+#palette {
+    width: 540px;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#blueviolet {
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    background-color: blueviolet;
+}
+
+#red {
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    background-color: red;
+}
+
+#orange {
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    background-color: orange
+}
+
+#yellow {
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    background-color: yellow;
+}
+
+#green {
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    background-color: green;
+}
+
+#indicator {
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    background-color: white;
+}
