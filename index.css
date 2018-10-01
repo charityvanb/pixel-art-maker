@@ -23,38 +23,29 @@
     flex-wrap: wrap;
 }
 
-#blueviolet {
+.circle {
     width: 90px;
     height: 90px;
     border-radius: 50px;
+}
+
+#blueviolet {
     background-color: blueviolet;
 }
 
 #red {
-    width: 90px;
-    height: 90px;
-    border-radius: 50px;
     background-color: red;
 }
 
 #orange {
-    width: 90px;
-    height: 90px;
-    border-radius: 50px;
     background-color: orange
 }
 
 #yellow {
-    width: 90px;
-    height: 90px;
-    border-radius: 50px;
     background-color: yellow;
 }
 
 #green {
-    width: 90px;
-    height: 90px;
-    border-radius: 50px;
     background-color: green;
 }
 
