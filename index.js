@@ -12,7 +12,7 @@ for (var i = 0; i < 841; i++) {
     pixel.classList.add('pixel')
     canvas.appendChild(pixel)
     pixel.addEventListener('click', paintPixel)
-    }
+}
 
 function paintPixel(event) {
     event.target.style.backgroundColor = indicator.style.backgroundColor
